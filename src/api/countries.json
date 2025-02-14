@@ -1,0 +1,187 @@
+[
+    {
+        "id": "NO",
+        "name": "Norway",
+        "broadcaster": "NRK"
+    },
+    {
+        "id": "AL",
+        "name": "Albania",
+        "broadcaster": "RTSH"
+    },
+    {
+        "id": "AM",
+        "name": "Armenia",
+        "broadcaster": "AMPTV"
+    },
+    {
+        "id": "AU",
+        "name": "Australia",
+        "broadcaster": "SBS"
+    },
+    {
+        "id": "AT",
+        "name": "Austria",
+        "broadcaster": "ORF"
+    },
+    {
+        "id": "AZ",
+        "name": "Azerbaijan",
+        "broadcaster": "Ictimai TV"
+    },
+    {
+        "id": "BE",
+        "name": "Belgium",
+        "broadcaster": "VRT"
+    },
+    {
+        "id": "HR",
+        "name": "Croatia",
+        "broadcaster": "HRT"
+    },
+    {
+        "id": "CY",
+        "name": "Cyprus",
+        "broadcaster": "CyBC"
+    },
+    {
+        "id": "CZ",
+        "name": "Czechia",
+        "broadcaster": "ČT"
+    },
+    {
+        "id": "DK",
+        "name": "Denmark",
+        "broadcaster": "DR"
+    },
+    {
+        "id": "EE",
+        "name": "Estonia",
+        "broadcaster": "ERR"
+    },
+    {
+        "id": "FI",
+        "name": "Finland",
+        "broadcaster": "YLE"
+    },
+    {
+        "id": "FR",
+        "name": "France",
+        "broadcaster": "France Télévisions"
+    },
+    {
+        "id": "GE",
+        "name": "Georgia",
+        "broadcaster": "GPB"
+    },
+    {
+        "id": "DE",
+        "name": "Germany",
+        "broadcaster": "NDR"
+    },
+    {
+        "id": "GR",
+        "name": "Greece",
+        "broadcaster": "ERT"
+    },
+    {
+        "id": "IS",
+        "name": "Iceland",
+        "broadcaster": "RÚV"
+    },
+    {
+        "id": "IE",
+        "name": "Ireland",
+        "broadcaster": "RTÉ"
+    },
+    {
+        "id": "IL",
+        "name": "Israel",
+        "broadcaster": "IPBC"
+    },
+    {
+        "id": "IT",
+        "name": "Italy",
+        "broadcaster": "RAI"
+    },
+    {
+        "id": "LV",
+        "name": "Latvia",
+        "broadcaster": "LTV"
+    },
+    {
+        "id": "LT",
+        "name": "Lithuania",
+        "broadcaster": "LRT"
+    },
+    {
+        "id": "LU",
+        "name": "Luxembourg",
+        "broadcaster": "RTL"
+    },
+    {
+        "id": "MT",
+        "name": "Malta",
+        "broadcaster": "PBS"
+    },
+    {
+        "id": "MD",
+        "name": "Montenegro",
+        "broadcaster": "RTCG"
+    },
+    {
+        "id": "NL",
+        "name": "Netherlands",
+        "broadcaster": "AVROTROS"
+    },
+    {
+        "id": "PL",
+        "name": "Poland",
+        "broadcaster": "TVP"
+    },
+    {
+        "id": "PT",
+        "name": "Portugal",
+        "broadcaster": "RTP"
+    },
+    {
+        "id": "SM",
+        "name": "San Marino",
+        "broadcaster": "SMRTV"
+    },
+    {
+        "id": "RS",
+        "name": "Serbia",
+        "broadcaster": "RTS"
+    },
+    {
+        "id": "SI",
+        "name": "Slovenia",
+        "broadcaster": "RTVSLO"
+    },
+    {
+        "id": "ES",
+        "name": "Spain",
+        "broadcaster": "RTVE"
+    },
+    {
+        "id": "SE",
+        "name": "Sweden",
+        "broadcaster": "SVT"
+    },
+    {
+        "id": "CH",
+        "name": "Switzerland",
+        "broadcaster": "SRG SSR"
+    },
+    {
+        "id": "UA",
+        "name": "Ukraine",
+        "broadcaster": "Suspilne"
+    },
+    {
+        "id": "GB",
+        "name": "United Kingdom",
+        "broadcaster": "BBC"
+    }
+]
